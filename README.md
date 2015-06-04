@@ -4,6 +4,8 @@
 
 The 1-Click solution to copy folder and document links to the Windows clipboard.
 
+Just like github's "Copy to clipboard" functionality to copy the git url to the clipboard -->
+
 ## Features:
 
 * Configurable as action
