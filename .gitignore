@@ -1,0 +1,14 @@
+# Build and Release Folders
+target/
+src/
+tomcat/
+pom.xml
+
+# Other files and folders
+.settings/
+.idea/
+alfresco-share-clipboard.iml
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
